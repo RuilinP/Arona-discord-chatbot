@@ -1,4 +1,4 @@
-# Arona Discord Chatbot
+# Arona Discord Chatbot by Ruilin
 
 This is a Discord chatbot built with Python using the Discord.py library and integrated with the OpenAI API for natural language processing.
 ![image](https://github.com/RuilinP/Arona-discord-chatbot/assets/93541585/70f444d5-c5e6-4073-a7ab-96ec59e791ee)
